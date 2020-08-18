@@ -1,0 +1,6 @@
+Game over in Mon Aug 17 18:00:52 2020
+ID player: 510065
+Your name: hc
+Chosen difficulty: легкая
+Game result: Win
+Coins: 0b1010
